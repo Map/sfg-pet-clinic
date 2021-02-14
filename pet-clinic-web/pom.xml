@@ -22,7 +22,6 @@
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>guru.springframework</groupId>
-            <version>0.0.5-SNAPSHOT</version>
         </dependency>
 
         <dependency>
